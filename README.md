@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yousafzai
+# 👋 Hi, I'm Marjan Yousafzai
 
 Welcome to my GitHub profile! I'm a passionate Computer Science student and tech enthusiast, currently exploring the world of web development, software engineering, and entrepreneurial tech solutions.
 
