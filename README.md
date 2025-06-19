@@ -34,7 +34,7 @@ A simple Node.js backend for the TAI quiz system, designed to support dynamic qu
 
 ## 📫 Connect with Me
 
-- 📧 Email: yousafzai05@example.com *(replace with your actual email if you like)*
+- 📧 Email: yousafzaimarjan05@gmail.com 
 - 🧑‍💼 LinkedIn: [linkedin.com/in/marjan-yousafzai-753710370](https://www.linkedin.com/in/marjan-yousafzai-753710370)
 - 🌐 Portfolio: *Coming Soon*
 
