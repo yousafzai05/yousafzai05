@@ -2,13 +2,11 @@
 
 # 👋 Hi, I'm Marjan Yousafzai
 
-### 💻 Computer Science Student | Front-End Web Developer | Future Full-Stack Developer
+### 💻 Computer Science Student | Front-End Developer | C++ Programmer | Open Source Learner
 
-Passionate about building responsive web applications, solving real-world problems through technology, and continuously learning modern software development.
+I'm a passionate Computer Science student at **Pak-Austria Fachhochschule Institute of Applied Sciences and Technology (PAF-IAST), Pakistan**. I enjoy building modern web applications, solving programming challenges, and creating projects that combine creativity with real-world problem solving.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Project-0A66C2?style=for-the-badge&logo=github)](https://github.com/yousafzai05/my-portfolio)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marjan_Yousafzai-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marjan-yousafzai-753710370)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:yousafzaimarjan05@gmail.com)
+Currently, I'm focusing on **Front-End Web Development**, **C++ Software Development**, and **Git/GitHub**, while continuously improving my skills through personal projects and internships.
 
 </div>
 
@@ -16,109 +14,126 @@ Passionate about building responsive web applications, solving real-world proble
 
 # 🚀 About Me
 
-🎓 BS Computer Science Student at **Pak-Austria Fachhochschule**
-
-💻 Passionate about Front-End Development and modern web technologies
-
-🌱 Currently learning:
-- JavaScript (Advanced)
-- Node.js
-- React
-- Git & GitHub
-- Software Development Best Practices
-
-🚀 Currently building:
-- **Trade an Idea (TAI)** – Interactive Quiz & Idea Trading Platform
-- Personal Portfolio
-- Front-End Development Projects
-
-💡 Interested in:
-- Web Development
-- UI/UX Design
-- Software Engineering
-- Entrepreneurship
-- Open Source
+- 🎓 BS Computer Science Student at **Pak-Austria Fachhochschule**
+- 💻 Front-End Web Developer
+- 🌱 Currently learning **React.js**, modern JavaScript, and Full-Stack Development
+- 🔥 Building real-world projects to strengthen my development skills
+- 🧩 Strong interest in Software Engineering, UI Design, and Problem Solving
+- 🚀 Passionate about startups, entrepreneurship, and innovative technology
+- 📚 Always learning something new and improving every day
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Technologies
+### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 # 🌟 Featured Projects
 
 ## 🎮 3D Kids Learning Playground
-An interactive educational platform featuring a 3D mascot, 30+ learning activities, quizzes, achievements, badges, stars, trophies, and gamified learning experiences for children.
+An interactive educational platform featuring a 3D mascot, 30+ learning activities, quizzes, sounds, animations, and a reward system with stars, coins, badges, and trophies.
+
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
 ## 🔐 Password Strength Checker
-A responsive password analyzer that evaluates password security using entropy calculation, character diversity detection, and real-time feedback.
+A responsive web application that analyzes password security using entropy calculations, character set analysis, pattern recognition, and real-time strength feedback.
+
+**Tech:** HTML • CSS • JavaScript • C++
 
 ---
 
-## 🛍 Stationery Shop
-A modern responsive e-commerce frontend built with HTML, CSS, and JavaScript featuring product listings, categories, shopping cart UI, and clean design.
+## 📁 Smart File Organizer
+A desktop file management system developed in C++ that automatically organizes files, performs file operations, maintains logs, and demonstrates object-oriented programming concepts.
+
+**Tech:** C++ • File Handling • OOP
 
 ---
 
 ## 💡 Trade an Idea (TAI)
+An interactive quiz and idea-sharing platform where users explore, evaluate, and trade innovative ideas across multiple categories.
 
-A unique quiz and idea-sharing platform where users can explore, pitch, and exchange innovative ideas through interactive challenges.
-
-🔗 Repository:
-https://github.com/yousafzai05/trade-an-idea
+**Tech:** HTML • CSS • JavaScript
 
 ---
 
-# 📚 Currently Learning
+## 🌐 Personal Portfolio Website
+A responsive portfolio showcasing my skills, education, projects, internship work, and contact information with a modern UI.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+## 🛍️ Stationery Shop Website
+A modern and responsive e-commerce frontend for a stationery store featuring product listings, categories, shopping cart UI, and attractive layouts.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+## ❓ Quiz Application
+A dynamic quiz platform supporting multiple categories, score tracking, and interactive question management.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+# 📈 Currently Learning
 
 - ⚛️ React.js
-- 🌐 Node.js
-- 🗄 Database Fundamentals
-- 🚀 Full-Stack Development
-- 📱 Responsive Web Design
-- ☁ GitHub Deployment
+- 🌐 Full Stack Web Development
+- 📱 Responsive UI/UX Design
+- 🔄 Git & GitHub Collaboration
+- ☁️ Deployment using GitHub Pages
+- 🧠 Data Structures & Algorithms
 
 ---
 
-# 🎯 2026 Goals
+# 📊 GitHub Stats
 
-- Build high-quality Full-Stack Projects
-- Contribute to Open Source
-- Strengthen DSA & Problem Solving
-- Gain Professional Development Experience
-- Grow as a Software Engineer
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yousafzai05&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousafzai05&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yousafzai05&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 📫 Let's Connect
+# 📫 Connect With Me
 
-📧 **Email**
-
+📧 **Email:**  
 **yousafzaimarjan05@gmail.com**
 
-💼 **LinkedIn**
-
+💼 **LinkedIn**  
 https://www.linkedin.com/in/marjan-yousafzai-753710370
 
-🌐 **Portfolio**
-
+🌐 **Portfolio**  
 https://github.com/yousafzai05/my-portfolio
+
+💻 **GitHub**  
+https://github.com/yousafzai05
 
 ---
 
@@ -126,8 +141,8 @@ https://github.com/yousafzai05/my-portfolio
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Improve. Repeat."*
+*"Every project is another step toward becoming a better developer."*
 
-If you like my work, don't forget to ⭐ my repositories!
+If you like my work, consider ⭐ starring my repositories and let's connect!
 
 </div>
